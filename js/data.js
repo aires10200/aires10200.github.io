@@ -1,8 +1,8 @@
 
 const DATA = {
   nome: "Aires Adlay",
-  iniciais: "AA",                         // ou troque o avatar por uma <img>
-  usuario: "aires",                        // aparece no painel: voce@portfolio
+  iniciais: "AA",                        
+  usuario: "aires",                      
   tagline: "estudante de Ciência da Computação · dev desktop, Linux e C",
   cargo: "Dev Web em formação · Bacharel em Ciência da Computação",
   bio: "Estudo Ciência da Computação na UFSJ e desenvolvimento web — Windows, Linux, desenvolvimento frontend e backend. Como freelancer, foco em desenvolvimento web, trabalhando com html, css, js, Node.js.",
